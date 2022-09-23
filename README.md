@@ -24,8 +24,8 @@
 
 #### Online Learning Certificates
 
-<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white">
-
+|  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"> |
+| --- | --- |
 |  <a href="https://coursera.org/share/439e587f313bdaff15f4986fc2edfe84" target="_blank">Deep Learning Specialisation</a>  |
 |  <a href="https://coursera.org/share/4791964d7d45562d884f699f4d354563" target="_blank">Machine Learning Specialisation</a>  |
 
