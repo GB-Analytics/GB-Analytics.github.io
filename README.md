@@ -25,4 +25,4 @@
 
 <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F">
 
-[Data Analyst with Python](https://www.datacamp.com/statement-of-accomplishment/track/2a9dfd256304c865f3e43988143b5245a8d036cc){target="_blank"}
+[Data Analyst with Python](https://www.datacamp.com/statement-of-accomplishment/track/2a9dfd256304c865f3e43988143b5245a8d036cc)
