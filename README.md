@@ -20,8 +20,7 @@
 
 #### Monash University Bachelor of Computer Science (Honours) - eQuals
 
-| <a href="https://www.myequals.net/sharelink/39941e9e-ca7f-4e82-93ee-9dd8176a53d0/ca865b86-4f7c-4df3-aaaf-efd62d9b6937" target="_blank">Honours Testamur</a> |
-|  <a href="https://www.myequals.net/sharelink/4c7e4070-a61b-487c-92bd-ca6cc2d66125/3ffd5af4-a887-4b41-b17e-b40865f54b86" target="_blank">Academic Record</a>  |
+| <a href="https://www.myequals.net/sharelink/39941e9e-ca7f-4e82-93ee-9dd8176a53d0/ca865b86-4f7c-4df3-aaaf-efd62d9b6937" target="_blank">Honours Testamur</a> |  <a href="https://www.myequals.net/sharelink/4c7e4070-a61b-487c-92bd-ca6cc2d66125/3ffd5af4-a887-4b41-b17e-b40865f54b86" target="_blank">Academic Record</a>  |
 
 #### Online Learning Certificates
 
