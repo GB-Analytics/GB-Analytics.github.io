@@ -18,6 +18,12 @@
 
 #### Tableau Public
 
+#### Monash University eQuals
+
+Bachelor of Computer Science (Honours) 
+<a href="https://www.myequals.net/sharelink/39941e9e-ca7f-4e82-93ee-9dd8176a53d0/ca865b86-4f7c-4df3-aaaf-efd62d9b6937" target="_blank">Honours Testamur</a>
+<a href="https://www.myequals.net/sharelink/4c7e4070-a61b-487c-92bd-ca6cc2d66125/3ffd5af4-a887-4b41-b17e-b40865f54b86" target="_blank">Transcript</a>
+
 #### Online Learning Certificates
 
 <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white">  |  <a href="https://coursera.org/share/439e587f313bdaff15f4986fc2edfe84" target="_blank">Deep Learning Specialisation</a>
